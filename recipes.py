@@ -9,7 +9,7 @@ import tkinter as tk
 import tkinter.font as font
 import spoonacular as sp
 
-api = sp.API("7f88e49e59794017accb3bf033e53f07")
+api = sp.API("API key")
 
 # globally declare the expression variable
 expression = ""
